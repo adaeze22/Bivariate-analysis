@@ -1,2 +1,2 @@
 # Bivariate-analysis
-this repo contains a data analysis of USA cars dataset. 
+this repo contains a data analysis of HR dataset. 
